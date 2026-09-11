@@ -14,7 +14,4 @@ Identificar requisitos que podem melhorar a segurança da aplicação e reduzir 
 
 ## Integrantes
 
-- Nome do aluno
-- Nome do aluno
-- Nome do aluno
-- Nome do aluno
+-João Pedro Frizon
