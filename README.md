@@ -1,8 +1,8 @@
-# Faculdade Nova Horizonte — Requisitos de Segurança
+# Faculdade Fasipe — Requisitos de Segurança
 
 ## Sobre
 
-Este projeto apresenta uma análise dos requisitos de segurança do sistema acadêmico fictício da Faculdade Nova Horizonte.
+Este projeto apresenta uma análise dos requisitos de segurança do sistema acadêmico fictício da Faculdade Fasipe.
 
 ## Aplicação
 
